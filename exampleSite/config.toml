@@ -5,9 +5,9 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Parsa Hugo | Personal Blog Template"
 [[menu.main]]
-URL = ""
+URL = "financial news"
 name = "Finance"
-weight = ""
+weight = "1"
 [[menu.main]]
 URL = "about"
 name = "About"
