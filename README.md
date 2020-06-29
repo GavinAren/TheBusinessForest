@@ -1,5 +1,5 @@
 # New Blog Style News Website
-Starting a blog style news website using Hugo with a combination of Netlify and the Forestry CMS. Set up instrucations below.
+Starting a blog style news website using Hugo with a combination of Netlify and the Forestry CMS. Set up instrucations below to use the parsa-hugo theme.
 
 <a href="http://bit.ly/meghna-hugo-installation" target="_blank" title="meghna hugo installation" rel="nofollow"><img width="100%" src="https://user-images.githubusercontent.com/37659754/70844354-4028be00-1e6a-11ea-8d84-02e9a25e7db8.png"></a>
 
